@@ -1,10 +1,10 @@
-package upc.losiotecnicos.sensors;
+package com.losiotecnicos.frostchef;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SensorsApplicationTests {
+class FrostchefApplicationTests {
 
 	@Test
 	void contextLoads() {

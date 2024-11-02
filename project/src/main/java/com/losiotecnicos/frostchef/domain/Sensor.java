@@ -1,6 +1,6 @@
-package upc.losiotecnicos.application.dto;
+package com.losiotecnicos.frostchef.domain;
 
-public class SensorDTO {
+public class Sensor {
     private double temperatura;
     private double humedad;
     private double calor;

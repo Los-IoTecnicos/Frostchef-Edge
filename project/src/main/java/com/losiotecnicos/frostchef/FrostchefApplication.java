@@ -1,13 +1,13 @@
-package upc.losiotecnicos.sensors;
+package com.losiotecnicos.frostchef;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SensorsApplication {
+public class FrostchefApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SensorsApplication.class, args);
+		SpringApplication.run(FrostchefApplication.class, args);
 	}
 
 }
